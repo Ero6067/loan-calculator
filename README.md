@@ -12,5 +12,5 @@ Uses HTML5, Bootstrap
 ## Run
 
 * git clone https://github.com/Ero6067/loan-calculator.git
-* open index.html in browser\
+* open index.html in browser
 * input values and click "Calculate"
